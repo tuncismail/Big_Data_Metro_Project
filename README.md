@@ -1,7 +1,8 @@
 # Big_data_metro_project
 2024-2025 Big Data Project
 
-
+# how to send ping
+güvenlik duvarını kaldır.
 # go and take the data from https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set
 take first 6-12 months from 2023 
 
