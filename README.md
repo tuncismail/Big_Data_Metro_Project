@@ -53,7 +53,7 @@ producer.ipynb
   
 Model weight is in [checkpoints](https://github.com/tuncismail/Big_data_metro_project/tree/main/checkpoints) folder
 ```
-data_format_and_training.ipynb  
+model.ipynb  
 ```
 ---
 
